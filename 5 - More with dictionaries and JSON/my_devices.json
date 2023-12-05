@@ -1,0 +1,37 @@
+[
+    {
+    "ip": "192.168.1.1",
+    "device_type": "cisco_ios",
+    "username": "admin",
+    "password": "cisco"
+},
+
+    {
+    "ip": "192.168.2.2",
+    "device_type": "cisco_ios",
+    "username": "admin",
+    "password": "cisco"
+},
+
+    {
+    "ip": "192.168.3.2",
+    "device_type": "cisco_ios",
+    "username": "admin",
+    "password": "cisco"
+},
+
+    {
+    "ip": "192.168.1.5",
+    "device_type": "cisco_ios",
+    "username": "admin",
+    "password": "cisco"
+},
+
+    {
+    "ip": "192.168.4.5",
+    "device_type": "cisco_ios",
+    "username": "admin",
+    "password": "cisco"
+}
+
+]
